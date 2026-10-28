@@ -192,6 +192,6 @@ The deck reflects how structured product strategy can be used to solve real-worl
 
 ---
 
-## Author - Ishan Singh
+## Author - Rishan Batra
 
 This project is part of my portfolio showcasing my interest in **Product Management, Business Strategy, Market Research, and Product Analytics**.
